@@ -1,6 +1,6 @@
 let figlet = require ('figlet');
 
-figlet("GIT HUBE",(err,data)=>{
+figlet("GIT --Help",(err,data)=>{
     console.log(data);
 });
 
