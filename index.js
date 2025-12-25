@@ -1,6 +1,6 @@
 let figlet = require ('figlet');
 
-figlet("CAMBODAI NEED PEACT!!",(err,data)=>{
+figlet("GIT HUBE",(err,data)=>{
     console.log(data);
 });
 
